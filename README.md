@@ -7,7 +7,7 @@
 ### How did we import the character in Unity?
 * The character is integrated into Unity as a FBX (Filmbox) file. The FBX format helps developers transfer data between different 3D software programs.
 
-![alt text](https://https://github.com/siddhesh2263/CSCI_6221_10_FSharp/master/images/Jammo_1.png?raw=true)
+![alt text](https://https://github.com/siddhesh2263/CSCI_6221_10_FSharp/images/master/Jammo_1.png?raw=true)
 
 ### How are animations integrated with the character?
 * Character animations are downloaded as form of FBX files for Unity. The project consists of a Running, Walking, and Idle animation.
